@@ -21,7 +21,9 @@ a {
 a:hover {
   color: #000;
 }
-
+amount{
+	font-size: 22px;
+}
 h1,
 h2,
 h3,
@@ -158,13 +160,13 @@ h6,
 
 .testimonial-wrap .testimonial {
   text-align: center;
-  max-width: 500px;
+  max-width: 800px;
   margin: 0 auto;
 }
 
 .testimonial-wrap .testimonial img {
-  border-radius: 50%;
-  width: 120px;
+  border-radius: 1%;
+  width: 900px;
   margin: 0 auto 30px auto;
 }
 
