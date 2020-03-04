@@ -37,7 +37,9 @@ h6,
 .site-section {
   padding: 2rem 0;
 }
-
+.site-section2 {
+  padding: 1rem 0;
+}
 .filters a {
   color: #000;
   display: inline-block;
